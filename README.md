@@ -1,4 +1,4 @@
-# Horiseon-Challange-01
+# Horiseon Code Fix
 **Starter code that needs to be modified**
 
 Broken link was fixed
